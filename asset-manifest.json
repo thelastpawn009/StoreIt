@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drive-clone/static/css/main.83a3515f.chunk.css",
+    "main.js": "/drive-clone/static/js/main.d5c8de71.chunk.js",
+    "main.js.map": "/drive-clone/static/js/main.d5c8de71.chunk.js.map",
+    "runtime-main.js": "/drive-clone/static/js/runtime-main.e09c0a1a.js",
+    "runtime-main.js.map": "/drive-clone/static/js/runtime-main.e09c0a1a.js.map",
+    "static/js/2.fb487140.chunk.js": "/drive-clone/static/js/2.fb487140.chunk.js",
+    "static/js/2.fb487140.chunk.js.map": "/drive-clone/static/js/2.fb487140.chunk.js.map",
+    "static/js/3.cc84b3f7.chunk.js": "/drive-clone/static/js/3.cc84b3f7.chunk.js",
+    "static/js/3.cc84b3f7.chunk.js.map": "/drive-clone/static/js/3.cc84b3f7.chunk.js.map",
+    "index.html": "/drive-clone/index.html",
+    "static/css/main.83a3515f.chunk.css.map": "/drive-clone/static/css/main.83a3515f.chunk.css.map",
+    "static/js/2.fb487140.chunk.js.LICENSE.txt": "/drive-clone/static/js/2.fb487140.chunk.js.LICENSE.txt",
+    "static/media/google-drive-icon.0b900c10.png": "/drive-clone/static/media/google-drive-icon.0b900c10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e09c0a1a.js",
+    "static/js/2.fb487140.chunk.js",
+    "static/css/main.83a3515f.chunk.css",
+    "static/js/main.d5c8de71.chunk.js"
+  ]
+}
